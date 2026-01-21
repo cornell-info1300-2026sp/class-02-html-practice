@@ -2,8 +2,8 @@
 
 Open this repository as a Codespace on GitHub.
 
-Click the green `<> Code` button
-Then click the green `Create codespace on main` botton
+- Click the <span style="background-color: green;border-radius: 5px;"><> Code</span>  button
+- Then click the <span style="background-color: green;border-radius: 5px;">Create codespace on main</span> button
 
 ## Instructions
 
