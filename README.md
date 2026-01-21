@@ -2,6 +2,9 @@
 
 Open this repository as a Codespace on GitHub.
 
+Click the green `<> Code` button
+Then click the green `Create codespace on main` botton
+
 ## Instructions
 
 Use this as a practice repo to simply add content to and then structure the content in the `index.html` page.
