@@ -30,7 +30,7 @@ Use this as a practice repo to simply add content to and then structure the cont
 
 [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-## Start the Development Server
+## Development Server
 
    Start the web server by clicking "Go Live" in the bottom right-hand corner.
 
